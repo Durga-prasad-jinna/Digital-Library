@@ -1,5 +1,5 @@
 # Digital Library
-##A Java Web Developement Project
+## A Java Web Developement Project
 
 - User Login Credentials: (durga/durga)
 - Admin Login Credentials: (Admin/Admin)
